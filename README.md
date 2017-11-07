@@ -1,3 +1,3 @@
-## Premiere installation de Angular4
+# Premiere installation de Angular4
 
-# Installation manuelle sans CLI
+## Installation manuelle sans CLI
